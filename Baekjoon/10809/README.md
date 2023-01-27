@@ -44,7 +44,7 @@ find(’a’): a의 인덱스 반환, 없으면 -1
 unsupported operand type(s) for -: 'str' and 'str’ 
 
 ```python
-ind = ord(s[i]) - ord('a')
+ind = int(s[i]-'a')
 ```
 
 해결
