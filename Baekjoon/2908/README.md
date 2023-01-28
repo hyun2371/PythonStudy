@@ -12,7 +12,7 @@
 
 ### 제출 코드
 
-```java
+```python
 n1, n2 = input().split()
 
 r_n1 = ""
@@ -28,7 +28,7 @@ print(max(int(r_n1), int(r_n2)))
 
 다른 풀이
 
-```java
+```python
 n1, n2 = input().split()
 r_n1 = int(n1[::-1])
 r_n2 = int(n2[::-1])
