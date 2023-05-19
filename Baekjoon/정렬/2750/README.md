@@ -29,3 +29,6 @@
 <br>
 마지막은 원소가 하나 남으므로 위의 과정 생략 가능
 <img src="https://postfiles.pstatic.net/MjAyMzA1MTlfODkg/MDAxNjg0NTAwNjQzNTc2.JmmU0o-r74C26VYrVtuUOc_g10-7t_MZDlbPTOUzGKIg.TNnePMJaxlJtx7APnNV74ElkrmwSnbDzkQppHbE7QLYg.PNG.loveanna1207/image.png?type=w773" width="400">
+
+<br>
+이미지 출처: https://www.youtube.com/watch?v=KGyK-pNvWos&ab_channel=%EB%8F%99%EB%B9%88%EB%82%98 
