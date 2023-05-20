@@ -4,7 +4,7 @@ for _ in range(n):
     result.append(int(input()))
 
 
-for i in range(len(result)): # 첫번째 ~ 배열 길이-1
+for i in range(len(result)-1): # 첫번째 ~ 배열 끝에서 두번째 
     min_ind = i
     for j in range(i+1, len(result)):
         if result[j] < result[min_ind]: # 최소값 인덱스 구하기
